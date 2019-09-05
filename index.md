@@ -1,5 +1,6 @@
 ---
 layout: home
 ---
-lkk
-Hello World!!
+Hi, welcome to my page!
+
+It's empty now :(
